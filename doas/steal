@@ -1,0 +1,13 @@
+#!/bin/bash
+
+COMMAND1="doas pacman -S "$@""
+COMMAND2="paru -S "$@""
+COMMAND3="flatpak install "$@""
+
+if $COMMAND1; then
+    :
+elif $COMMAND2; then
+    :
+elif $COMMAND3; then
+    :
+fi
