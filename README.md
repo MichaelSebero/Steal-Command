@@ -3,6 +3,7 @@ Steal works by cycling through 3 install commands until it finds the package you
 
 ## Requirements 
 . Paru
+
 . OpenDoas (optional)
 
 ## How to install Steal
