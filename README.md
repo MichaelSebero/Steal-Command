@@ -12,4 +12,4 @@ Steal works by cycling through 3 install commands until it finds the package you
 . Place the contents of either the sudo or doas version of Steal in your /bin folder.
 
 <p align="center">
-	<img src="https://i.postimg.cc/HnMXc7r2/package-theft.jpg"  />
+	<img src="https://i.postimg.cc/HnMXc7r2/package-theft.jpg" />
