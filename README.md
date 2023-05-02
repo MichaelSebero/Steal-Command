@@ -1,6 +1,8 @@
 ## How Steal Works
 Steal works by cycling through 3 install commands until it finds the package you want to download.
 
+steal [ PACKAGE ]
+
 ## Requirements 
 . Paru
 
