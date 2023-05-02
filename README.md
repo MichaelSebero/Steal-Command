@@ -13,4 +13,4 @@ steal [ PACKAGE ]
 
 . Through the root terminal enter the name of your file manager.
 
-. Place the contents of either the sudo or doas version of Steal in your /bin folder.
+. Place the contents of either the sudo or doas version of Steal in your [ /bin ] folder.
