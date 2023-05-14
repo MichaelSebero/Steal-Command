@@ -6,6 +6,8 @@ steal [ PACKAGE ]
 ## Requirements 
 . Paru
 
+. Flatpak
+
 . OpenDoas (optional)
 
 ## How to install Steal
