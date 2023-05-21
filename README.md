@@ -11,7 +11,7 @@ steal [ PACKAGE ]
 . OpenDoas (optional)
 
 ## How to install Steal
-. Enter the command [ su ] into your terminal.
+. Enter the command `su` into your terminal.
 
 . Through the root terminal enter the name of your file manager.
 
