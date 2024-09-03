@@ -1,7 +1,7 @@
 #!/bin/bash
 
-COMMAND1="doas pacman -S "$@""
-COMMAND2="paru -S "$@" --noconfirm"
+COMMAND1="doas pacman -Sy "$@""
+COMMAND2="paru -Sy "$@" --noconfirm"
 COMMAND3="flatpak install "$@""
 
 if $COMMAND1; then
