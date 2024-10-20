@@ -1,6 +1,6 @@
 #!/bin/bash
 
-COMMAND1="doas pacman -Sy "$@""
+COMMAND1="doas pacman -Syu "$@""
 COMMAND2="paru -S "$@" --noconfirm"
 COMMAND3="flatpak install "$@""
 

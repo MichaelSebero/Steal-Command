@@ -1,6 +1,6 @@
 #!/bin/bash
 
-COMMAND1="sudo pacman -Sy "$@""
+COMMAND1="sudo pacman -Syu "$@""
 COMMAND2="paru -S "$@" --noconfirm"
 COMMAND3="flatpak install "$@""
 
